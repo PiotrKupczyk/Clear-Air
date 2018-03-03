@@ -64,7 +64,7 @@
 		8330C8E2203EFB95007532B7 /* Clear Air */ = {
 			isa = PBXGroup;
 			children = (
-				837DD01D204AB65E00FB81C4 /* ViewContrillers */,
+				837DD01D204AB65E00FB81C4 /* ViewControllers */,
 				835589972043639F00DFAD67 /* CityTableViewCell.swift */,
 				8330C8E7203EFB95007532B7 /* Main.storyboard */,
 				8330C8F5203EFCD9007532B7 /* systemFiles */,
@@ -84,7 +84,7 @@
 			path = systemFiles;
 			sourceTree = "<group>";
 		};
-		837DD01D204AB65E00FB81C4 /* ViewContrillers */ = {
+		837DD01D204AB65E00FB81C4 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
 				832738D42040114100D7395D /* AllCitiesTableViewController.swift */,
@@ -92,7 +92,7 @@
 				832738CF2040104C00D7395D /* CityDetailsViewController.swift */,
 				8330C8E5203EFB95007532B7 /* ViewController.swift */,
 			);
-			path = ViewContrillers;
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
